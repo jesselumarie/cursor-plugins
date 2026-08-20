@@ -1,0 +1,7 @@
+interface:
+  display_name: "Messy Mode"
+  short_description: "Deep work, direct execution, short handoffs"
+  default_prompt: "Use $messy-mode to work through this task in my style."
+
+policy:
+  allow_implicit_invocation: false
